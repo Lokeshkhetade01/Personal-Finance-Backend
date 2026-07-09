@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+uploads/receipts/*
+!uploads/receipts/.gitkeep
+*.log
+.DS_Store
